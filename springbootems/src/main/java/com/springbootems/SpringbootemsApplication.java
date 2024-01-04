@@ -8,7 +8,7 @@ public class SpringbootemsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootemsApplication.class, args);
-		System.out.println("Spring Boot EMS Started Successfully!");
+		System.out.println("Spring Boot EMS is Started Successfully!");
 	}
 
 }
